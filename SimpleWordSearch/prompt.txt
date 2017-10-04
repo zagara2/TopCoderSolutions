@@ -1,0 +1,4 @@
+The Simple Word Game is a game where a player tries to remember as many words as possible from a given dictionary. The score for each distinct word that the player remembers correctly is the square of the word's length.
+You are given player, a list of strings, each element of which is a word remembered by the player. There may be duplicate words, but if the same word appears multiple times, it should only be counted once. You are given the dictionary in the dictionary, a list of strings, each element of which is a single distinct word. Return the player's total score.
+
+This problem statement is the exclusive and proprietary property of TopCoder, Inc. Any unauthorized use or reproduction of this information without the prior written consent of TopCoder, Inc. is strictly prohibited. ©2006, TopCoder, Inc. All rights reserved.

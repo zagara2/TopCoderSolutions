@@ -1,0 +1,4 @@
+Consider the problem of trying to do a number of loads of laundry, given only one washer and one dryer. Washing a load takes 25 minutes, drying a load takes 25 minutes, and folding the clothes in a load takes 10 minutes, for a total of 1 hour per load (assuming that the time to transfer a load is built into the timings given). All the laundry can be done in 10 hours, 600 minutes, using the method of completing one load before starting the next one. 
+Write the method, minutesNeeded, that returns the shortest time needed to do m loads of laundry. In other words, given an integer value representing the number of loads to complete, m, determine the smallest number of minutes needed to complete all loads of laundry.
+
+This work is copyright © Owen Astrachan and is licensed under a Creative Commons Attribution-Share Alike 3.0 Unported License.

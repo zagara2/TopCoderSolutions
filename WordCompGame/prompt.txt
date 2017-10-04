@@ -1,0 +1,4 @@
+Three players are playing a game of word composition in which each player writes down a list of words. After the time expires the scores are calculated using the following rules. Each player gains 3 points for each unique word that only he has, 2 points for each word that is shared with exactly one other player, and 1 point for each word that is shared with both of the other players.
+You will be given three string lists listA, listB and listC - the word lists of playerA, playerB and playerC respectively. Your method should return scores of playerA, playerB and playerC in the form of the string "scoreA/scoreB/scoreC" (quotes for clarity).
+
+This problem statement is the exclusive and proprietary property of TopCoder, Inc. Any unauthorized use or reproduction of this information without the prior written consent of TopCoder, Inc. is strictly prohibited. ©2010, TopCoder, Inc. All rights reserved.

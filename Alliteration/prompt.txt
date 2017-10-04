@@ -1,0 +1,3 @@
+An alliteration consists of two or more consecutive words which start with the same letter (ignoring case). You are given a sequence of words. Find out the number of alliterations in this sequence, considering only alliterations which cannot be extended.
+
+This problem statement is the exclusive and proprietary property of TopCoder, Inc. Any unauthorized use or reproduction of this information without the prior written consent of TopCoder, Inc. is strictly prohibited. ©2010, TopCoder, Inc. All rights reserved.

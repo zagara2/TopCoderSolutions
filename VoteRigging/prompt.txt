@@ -1,0 +1,4 @@
+You have used your secret mind-reading device to find out how every voter will vote in the next election. Your mind-reading device also revealed to you that all the voters are prepared to change their vote if you pay them enough.
+The ith element of votes (list of integers) is the number of people who were originally planning to vote for candidate i. Return the minimum number of votes that you must change to ensure that candidate 0 (your favorite) will have more votes than any other candidate.
+
+This problem statement is the exclusive and proprietary property of TopCoder, Inc. Any unauthorized use or reproduction of this information without the prior written consent of TopCoder, Inc. is strictly prohibited. (c)2006, TopCoder, Inc. All rights reserved.

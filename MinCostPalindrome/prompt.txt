@@ -1,0 +1,4 @@
+A palindrome is a string that reads the same from left to right as it does from right to left.
+You are given a String s. The length of s is even. Each character of s is either 'o', 'x', or '?' Your task in this problem is to replace each occurrence of '?' in s with either 'o' or 'x' so that s becomes a palindrome. You are also given ints oCost and xCost. Replacing '?' with 'o' costs oCost, and replacing '?' with 'x' costs xCost. Return the minimum cost of replacing '?'s by 'x's and 'o's that turns s into a palindrome. If it is impossible to obtain a palindrome, return -1 instead.
+
+This problem statement is the exclusive and proprietary property of TopCoder, Inc. Any unauthorized use or reproduction of this information without the prior written consent of TopCoder, Inc. is strictly prohibited. ©2010, TopCoder, Inc. All rights reserved

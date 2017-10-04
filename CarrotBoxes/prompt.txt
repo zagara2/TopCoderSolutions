@@ -1,0 +1,6 @@
+Rabbit Hanako has N boxes of carrots numbered 0 through N-1. The i-th box contains carrots[i] carrots. (Note that carrots is the name of a list that contains information about boxes of the vegetable named carrot.)
+She decides to eat amount carrots from these boxes. She will eat the carrots one at a time, each time choosing a carrot from the box with the greatest number of carrots. If there are multiple such boxes, she will choose the lowest numbered box among them.
+
+Return the number of the box from which she will eat her last carrot.
+
+This problem statement is the exclusive and proprietary property of TopCoder, Inc. Any unauthorized use or reproduction of this information without the prior written consent of TopCoder, Inc. is strictly prohibited. ©2010, TopCoder, Inc. All rights reserved.

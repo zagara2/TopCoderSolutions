@@ -1,0 +1,4 @@
+You will be given a string list names, containing a list of customer names extracted from a database. Your task is to report the customers that occur more than once in this list, and the number of occurrences for each of the repeated customers.
+Your method should return the report as string list. Each element in this list should be of the form "NAME OCCURS", where NAME is the name of one customer and OCCURS is the number of times his name occurs in names. Sort the result in alphabetical order by customer name.
+
+This problem statement is the exclusive and proprietary property of TopCoder, Inc. Any unauthorized use or reproduction of this information without the prior written consent of TopCoder, Inc. is strictly prohibited. ©2010, TopCoder, Inc. All rights reserved.
